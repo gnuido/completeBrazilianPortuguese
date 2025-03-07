@@ -1,2 +1,3 @@
 # completeBrazilianPortuguese
-Repositorio de apuntes del libro 'Complete Brazilian Portuguese'
+Repositorio personal de apuntes del libro 'Complete Brazilian Portuguese' - Sue Tyson-Ward 
+

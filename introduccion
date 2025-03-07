@@ -1,9 +1,10 @@
-#Apuntes del libro Complete Brazilian Portuguese de Sue Tyson-Ward
 #Introducción
 
-Pronunciación
+#-------------------------------------------
+#Abecedario
 
-En portugués se emplea el alfabeto romano, no obstante existen algunas diferencias respecto al castellano. Por ejemplo, no se emplean las letras k, w ni y excepto para extranjerismos o abreviaturas.
+En portugués se emplea el alfabeto romano, no obstante existen algunas diferencias respecto al castellano. 
+Por ejemplo, no se emplean las letras k, w ni y excepto para extranjerismos o abreviaturas.
 
 Abecedario y nombre pronunciado a lo bestia de cada letra:
 A: 'a'
@@ -34,15 +35,44 @@ K: 'cá'
 W: 'dabliú' (como en inglés)
 Y: 'ípsilon'
 
-#-------------
-Al igual que en castellano, las palabras tienden a pronunciarse tal cual están escritas. El acento carioca (de Río de Janeiro) tiende a añadir un sonido del tipo 'yi' tras ciertas consonantes (d, k, t) en extranjerismos (anglisismos generalmente), como por ejemplo intenert (pronunciado a lo bestia 'internetyi'). No obstante, hay ciertas combinaciones que generan fonemas a los que un hispanohablante no está acostumbrado.
+#-------------------------------------------
+#Pronunciación y sonidos
 
+Al igual que en castellano, las palabras tienden a pronunciarse tal cual están escritas. El acento carioca (de Río de Janeiro) 
+tiende a añadir un sonido del tipo 'yi' tras ciertas consonantes (d, k, t) en extranjerismos (anglisismos generalmente),
+como por ejemplo internet (pronunciado a lo bestia 'internetyi'). 
+
+No obstante, hay ciertas combinaciones que generan fonemas a los que un hispanohablante no está acostumbrado.
 Algunos casos:
 ch: 'sh' bien rioplatense. Por ejemplo: chuveiro ('shuveiro')
 lh: 'li'. Por ejemplo: mulher ('mulier')
-nh: 'ni'. Por ejemplo: Robinho ('gjobino' o 'gjobiño')
+nh: 'ni'. Por ejemplo: Robinho ('gjobinio' o 'gjobiño')
 g + e/i: 'sh'. Por ejemplo: gente ('shenti')
 j: IDEM
 h: mudo como en castellano
-x: comodín, varía demasiado
+x: comodín, varía según el contexto;	-simil y, ejemplo: peixe ('peiye')
+					-simil z, ejemplo: exam ('ezam') #recordar: con un sonido marcado de z, como en inglés
+					-simil sh, ejemplo: excelente ('eshelentyi')
+					-x como en castellano, ejemplo: ortodoxo
+
+En portugués también existen sonidos nasales, es decir, producidos en "la parte trasera de la nariz". Las vocales que se pronuncian 
+con estos sonidos son denotados por una tilde o TIL (~), aunque también se emplean estos sonidos cuando a la vocal le sigue una letra 
+'n' o 'm'.
+Como ejemplos:	-irmão
+		-um
+		-in
+
+Por otro lado, tal como en el castellano, las consonantes q, g, y c pueden cambiar de sonido en función de las vocales siguientes. Se siguen
+las mismas reglas que en el castellano, con los mismos sonidos a producir. Existen, sin embargo, algunas excepciones como por ejemplo:
+-quadro: pronunciado como 'cuadro' y no 'cadro'
+
+#-------------------------------------------
+#Acentos
+
+En contraste, en el portugués existen cuatro tipos de acentos:
+-acento agudo: similar al empleado en castellano, pero se emplea en vocales abiertas.
+-acento grave: no provoca una entonación particular sobre la sílaba como el acento agudo y surge de la contracción de dos palabras.
+-acento circunflejo: análogo al acento agudo pero se emplea en vocales cerradas.
+-tilde o TIL: provoca la nasalización del sonido de la vocal.
+
 
